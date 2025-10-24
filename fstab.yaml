@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/aemysites/jfoxx-251024-da/
+    type: markup
